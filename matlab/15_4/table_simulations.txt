@@ -1,0 +1,23 @@
+
+deployment_1:
+range = 250 meters
+TX power = 2.5 dBm
+RX sensitivity = -95 dBm
+nodes = 50 
+centered_gateway;
+message_sparsity=0.05
+near_sparsity = 0;
+	noise_level = -90 dBm
+		we run 8 times on TR7-14.
+		results saved in: deployment_1_noise_90_run_[1:8].mat
+
+	noise_level = -87 dBm
+		we run 10 times on TR5-14.
+		results saved in: deployment_1_noise_87_run_[1:10].mat
+	noise_level = -85 dBm
+		we run 10times on TR5-14.
+		results saved in: deployment_1_noise_85_run_[1:10].mat
+	noise_level = -83 dBm
+		we run 10times on TR5-14.
+		results saved in: deployment_1_noise_83_run_[1:10].mat
+
