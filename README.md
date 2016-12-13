@@ -3,6 +3,8 @@ This repository includes the MATLAB codes related to my PhD thesis on the topic 
 
 <img src="thesis/QNCdef.jpg" width="600" align="middle">
 
+<img src="thesis/netDep.jpg" width="600" align="middle">
+
 ## Thesis PDF
 You can download the full final version of my thesis [here](https://github.com/mnabaee/networkcoding/blob/master/thesis/thesis_.pdf).
 
