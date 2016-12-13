@@ -1,7 +1,7 @@
 # Quantized Network Coding for Wireless Sensor Networks
 This repository includes the MATLAB codes related to my PhD thesis on the topic of Quantized Network Coding for Wireless Sensor Network in conjunction with IEEE 802.15.4 standard.
 
-<img src="thesis/QNCdef.pdf" width="600" align="middle">
+<img src="thesis/QNCdef.jpg" width="600" align="middle">
 
 ## Thesis PDF
 You can download the full final version of my thesis [here](https://github.com/mnabaee/networkcoding/blob/master/thesis/thesis_.pdf).
