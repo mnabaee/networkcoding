@@ -5,7 +5,6 @@ In figure below, the data gathering scenario in sensor networks is shown. In thi
 
 <img src="thesis/netDep.jpg" width="300" align="middle"><br/>
 
-<br/><br/><br/>
 
 The thesis main contribution is to propose quantized network coding as an alternative to the conventional routing-based packet forwarding and distributed source coding (combined) for efficient transmission of correlated messages. As shown in figure below, the incoming packets at an intermediate node are linearly combined and then quantized to be sent to the next intermediate node in the network.
 
