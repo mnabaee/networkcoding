@@ -1,11 +1,14 @@
 # Quantized Network Coding for Wireless Sensor Networks
 This repository includes the MATLAB codes related to my PhD thesis on the topic of Quantized Network Coding for Wireless Sensor Network in conjunction with IEEE 802.15.4 standard.
 
+In figure below, the data gathering scenario in sensor networks is shown. In this scenario, the sensed data from all the sensors are intented to be transmitted to a single gateway node.
 <img src="thesis/netDep.jpg" width="300" align="middle"><br/>
-Gathering of correlated sensed data at a gateway node is shown in the figure above.
+
 <br/><br/><br/>
+
+The thesis main contribution is to propose quantized network coding as an alternative to the conventional routing-based packet forwarding and distributed source coding (combined) for efficient transmission of correlated messages. As shown in figure below, the incoming packets at an intermediate node are linearly combined and then quantized to be sent to the next intermediate node in the network.
 <img src="thesis/QNCdef.jpg" width="300" align="middle"><br/>
-The QNC framework is shown in the above figure.
+
 
 ## Thesis PDF
 You can download the full final version of my thesis [here](https://github.com/mnabaee/networkcoding/blob/master/thesis/thesis_.pdf).
